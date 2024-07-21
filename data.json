@@ -1,0 +1,49 @@
+{
+  "stock": [
+    {
+      "name": "Augmentin 625 Duo Tablet",
+      "id": "1",
+      "group": "Generic Medicine",
+      "qty": 350,
+      "usage": "hello",
+      "sideEffects": "how are you doing",
+      "price": 400
+    },
+    {
+      "name": "Augmentin 625 Duo Tablet",
+      "id": "2",
+      "group": "Generic Medicine",
+      "qty": 350,
+      "usage": "hello",
+      "sideEffects": "how are you doing",
+      "price": 400
+    },
+    {
+      "name": "Augmentin 625 Duo Tablet",
+      "id": "3",
+      "group": "Generic Medicine",
+      "qty": 350,
+      "usage": "hello",
+      "sideEffects": "how are you doing",
+      "price": 400
+    },
+    {
+      "id": "4",
+      "name": "ws66mtez6",
+      "group": "stme7e",
+      "qty": 100,
+      "usage": "smm6ym7",
+      "sideEffects": "s7ye7",
+      "price": 400
+    },
+    {
+      "id": "5",
+      "name": "cyfyufvk",
+      "group": "e6eu6",
+      "qty": 100,
+      "usage": "eeeee5ye",
+      "sideEffects": "e7ddsd",
+      "price": 400
+    }
+  ]
+}
